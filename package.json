@@ -1,0 +1,14 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "A project by jericho to learn cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "The Jericho",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
